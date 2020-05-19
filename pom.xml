@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.paulbriar</groupId>
 	<artifactId>sfgpc-spring-app</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>sfgpc-spring-app</name>
 	<description>Spring Framework App</description>
 
@@ -44,7 +44,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:PaulBriar/sfgpc-spring-app.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>sfgpc-spring-app-0.0.2</tag>
   </scm>
 
 </project>
