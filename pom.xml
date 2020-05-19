@@ -43,7 +43,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:PaulBriar/sfgpc-spring-app.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/PaulBriar/sfgpc-spring-app.git</developerConnection>
 	  <tag>sfgpc-spring-app-0.0.2</tag>
   </scm>
 
